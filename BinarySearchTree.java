@@ -1,17 +1,4 @@
-/*
- *  *
- *   Implementation of data structures and algorithms
- * Fall 2018
- * Short Project 4: Binary Search Tree
- * Date: 30th September,2018
- *
- *  Team Members:
- * Shreyash Mane - ssm170730
- * Swapna Chintapalli - sxc180048
- */
 
-
-package ssm170730;
 import java.util.*;
 
 
